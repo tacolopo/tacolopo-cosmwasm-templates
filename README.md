@@ -1,6 +1,6 @@
 # CosmWasm Starter Pack
 
-## This is a fork from the https://github.com/InterWasm/cw-template
+## This is a fork from https://github.com/InterWasm/cw-template
 
 This is a template to build smart contracts in Rust to run inside a
 [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) module on all chains that enable it.
